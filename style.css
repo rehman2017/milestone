@@ -1,0 +1,24 @@
+body{
+
+    text-align: center;
+    background-color: rgb(238, 176, 96);
+    /* border: solid; */
+    height:90vh;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+section{
+    border: solid;
+    padding-bottom: 9px ;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+button{
+    border-radius: 10px;
+    background-color: rgb(31, 30, 30);
+    color: rgb(58, 2, 2);
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
